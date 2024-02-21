@@ -4,11 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a66bd7c6-bbe2-45e8-8fd6-334db68638ac" name="Changes" comment="" />
+    <list default="true" id="a66bd7c6-bbe2-45e8-8fd6-334db68638ac" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/it/epicode/w7d3/Adapter/DataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/it/epicode/w7d3/Adapter/Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/it/epicode/w7d3/Adapter/InfoAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/it/epicode/w7d3/Adapter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/it/epicode/w7d3/Adapter/UserData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/it/epicode/w7d3/Composite/EntitaLibro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/it/epicode/w7d3/Composite/Pagina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/it/epicode/w7d3/Composite/Sezione.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/it/epicode/w7d3/Composite/SottoSezione.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,9 +43,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/giuli/IdeaProjects/w7d3/src/main/java/it/epicode/w7d3/Main.java"
   }
@@ -40,17 +62,19 @@
       <option name="presentableId" value="Default" />
       <updated>1708515764047</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1708515838598</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708515838598</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/it/epicode/w7d3/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
